@@ -1,0 +1,29 @@
+# Visual Studio / IDEs
+/[Bb]in/
+/[Oo]bj/
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build / Resultados de compilação
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+bld/
+[Ll]ogs/
+*.log
+
+# Resultados de testes
+[Tt]est[Rr]esult*/
+*.trx
+
+# Pacotes NuGet
+/[Nn]uGet/
+*.nupkg
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
